@@ -1,12 +1,6 @@
 <p align="center">
-  <a href="https://github.com/Sapanaa" style="color:#e75480;">
-    <p align="center">
-  <img src="https://img.shields.io/badge/Sapana%20Dhami-ML%20Student-pink?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=e75480&size=24&center=true&vCenter=true&width=435&lines=Sapana+Dhami" />
 </p>
-Sapana Dhami
-  </a>
-</p>
->
 
 
 
