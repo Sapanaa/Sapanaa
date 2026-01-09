@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://github.com/Sapanaa" style="color:#e75480;">
-    Sapana Dhami
+    <p align="center">
+  <img src="https://img.shields.io/badge/Sapana%20Dhami-ML%20Student-pink?style=for-the-badge" />
+</p>
+Sapana Dhami
   </a>
 </p>
 >
